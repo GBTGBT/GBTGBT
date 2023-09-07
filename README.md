@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+古丽波斯旦，来自新疆哈密，性格开朗，为人豪爽。
+现就读于广东工业大学计算机科学与技术专业，这是我来到这个学校的第四年。我喜欢旅游，爬山，滑雪，喜欢看小说，看动漫，喜欢看漫威。
+
+
+
+
 <!--
 **GBTGBT/GBTGBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
